@@ -34,7 +34,7 @@ complete the connector setup.
   | Text Field                     | Response                                                         |
   |  ------------------------------|------------------------------------------------------------------|
   | **Application Name**           | GitHub Community Connector                                       |
-  | **Homepage URL**               | https://github.com/googledatastudio/community-connectors/tree/master/github                |
+  | **Homepage URL**               | https://github.com/lukemoreira/datastudio-community-connectors/tree/master/github                |
   | **Application Description**    | This application...                                              |
   | **Authorization callback URL** | https://script.google.com/macros/d/{YOUR_SCRIPT_ID}/usercallback |
 
